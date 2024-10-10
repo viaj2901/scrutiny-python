@@ -16,7 +16,8 @@ dependencies = [
     'pyelftools==0.31',
     'websockets==12.0',
     'sortedcontainers==2.4.0',
-    'pyserial==3.5'
+    'pyserial==3.5',
+    'pylink-square==1.3.0'
 ]
 
 doc_dependencies = []
